@@ -1,0 +1,16 @@
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\bin\Debug\Akbil.exe.config
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\bin\Debug\Akbil.exe
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\bin\Debug\Akbil.pdb
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.csproj.AssemblyReference.cache
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.csproj.SuggestedBindingRedirects.cache
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.csproj.CoreCompileInputs.cache
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.exe
+C:\Users\serap\OneDrive\Desktop\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.pdb
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\bin\Debug\Akbil.exe.config
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\bin\Debug\Akbil.exe
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\bin\Debug\Akbil.pdb
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.csproj.AssemblyReference.cache
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.csproj.SuggestedBindingRedirects.cache
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.csproj.CoreCompileInputs.cache
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.exe
+C:\Users\serap\source\repos\BiletUygulamaPrj\Akbil\obj\Debug\Akbil.pdb
